@@ -13077,6 +13077,16 @@
       "language": "JavaScript",
       "stars": 171,
       "added": "2026-09-22"
+    },
+    {
+      "name": "yardsort",
+      "repo": "joaoh82/yardsort",
+      "site": "https://yardsort.sh",
+      "description": "Desktop app that runs terminal coding agents in parallel git worktrees, with Jev judging each changed file against what the workspace was asked to do.",
+      "category": "agents",
+      "language": "Rust",
+      "stars": 0,
+      "added": "2026-09-23"
     }
   ]
 }
