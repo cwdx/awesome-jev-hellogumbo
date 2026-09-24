@@ -13067,6 +13067,16 @@
       "language": "Python",
       "stars": 0,
       "added": "2026-09-22"
+    },
+    {
+      "name": "perch",
+      "repo": "lakeday-org/perch",
+      "site": "https://perchscan.com/",
+      "description": "Open-source CLI that parses a repository into a method-level call graph, then asks Jev to flag likely defects and check project rules written in plain English.",
+      "category": "agents",
+      "language": "JavaScript",
+      "stars": 171,
+      "added": "2026-09-22"
     }
   ]
 }
