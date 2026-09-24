@@ -13097,6 +13097,16 @@
       "language": "Rust",
       "stars": 0,
       "added": "2026-09-23"
+    },
+    {
+      "name": "Coffee Under Fire",
+      "repo": "joaoh82/coffee-under-fire",
+      "site": "https://coffee.yardsort.sh/",
+      "description": "A browser coffee-delivery arena shooter where TypeSafe AI’s Jev model chooses NPC actions through typed Choice questions.",
+      "category": "games",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-23"
     }
   ]
 }
