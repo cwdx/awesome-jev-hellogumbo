@@ -13006,6 +13006,16 @@
       "language": "Ruby",
       "stars": 0,
       "added": "2026-09-22"
+    },
+    {
+      "name": "jevtraces",
+      "repo": "ishantanu/jevtraces",
+      "site": null,
+      "description": "OpenTelemetry Collector processor that uses Jev to assess span operation metadata and annotate spans with diagnostic value, business criticality, and retention probabilities without dropping traces.",
+      "category": "integrations",
+      "language": "Go",
+      "stars": 0,
+      "added": "2026-09-21"
     }
   ]
 }
