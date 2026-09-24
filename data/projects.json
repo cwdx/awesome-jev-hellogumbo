@@ -13127,6 +13127,16 @@
       "language": "JavaScript",
       "stars": 0,
       "added": "2026-09-24"
+    },
+    {
+      "name": "Milvus Model",
+      "repo": "milvus-io/milvus-model",
+      "site": null,
+      "description": "Python reranker adapter that sends candidate documents as Jev Noul questions in one request, then sorts the returned scores and preserves original document indices.",
+      "category": "integrations",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-24"
     }
   ]
 }
