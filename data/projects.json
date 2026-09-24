@@ -13036,6 +13036,17 @@
       "language": "Kotlin",
       "stars": 0,
       "added": "2026-09-22"
+    },
+    {
+      "name": "Search with Jev and Milvus",
+      "repo": null,
+      "description": "Nine runnable notebooks combine Gemini embeddings and Milvus retrieval with Jev judgments for reranking, filtering, search stopping, routing, cache reuse, curation, guardrails, and evaluation.",
+      "category": "demos",
+      "language": null,
+      "stars": 0,
+      "added": "2026-09-22",
+      "url": "https://github.com/milvus-io/bootcamp/tree/master/bootcamp/RAG/search_with_jev",
+      "site": null
     }
   ]
 }
