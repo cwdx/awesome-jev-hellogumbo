@@ -13117,6 +13117,16 @@
       "language": "JavaScript",
       "stars": 0,
       "added": "2026-09-24"
+    },
+    {
+      "name": "codex-jev-router",
+      "repo": "suenot/codex-jev-router",
+      "site": null,
+      "description": "Use Jev Choice and Noul decisions to select Codex subagent model and reasoning tiers, with local compatible backends and a Sol fallback.",
+      "category": "agents",
+      "language": "JavaScript",
+      "stars": 0,
+      "added": "2026-09-24"
     }
   ]
 }
