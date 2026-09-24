@@ -13148,6 +13148,16 @@
       "stars": 0,
       "added": "2026-09-24",
       "url": "https://zc277584121.github.io/rag/2026/09/22/jev-search-deep-evaluation.html"
+    },
+    {
+      "name": "snbt-jev-bench",
+      "repo": "misaalya/snbt-jev-bench",
+      "site": null,
+      "description": "Jev on Indonesia's SNBT 2025 university entrance exam, whose papers are never released: 159 questions reconstructed from memory by volunteers, 156 of them scored, every response published.",
+      "category": "research",
+      "language": "Python",
+      "stars": 0,
+      "added": "2026-09-24"
     }
   ]
 }
