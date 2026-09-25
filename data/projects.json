@@ -13178,6 +13178,16 @@
       "language": "TypeScript",
       "stars": 0,
       "added": "2026-09-24"
+    },
+    {
+      "name": "1 Million Emojis",
+      "repo": "cwdx/1-million-emojis",
+      "site": "https://chriswijnia.com/experiments/emoji",
+      "description": "A shared canvas of a million emoji cells, live for everyone, where Jev paints the next cell as one Choice over named emoji drawn from the strip around it.",
+      "category": "demos",
+      "language": "TypeScript",
+      "stars": 0,
+      "added": "2026-09-25"
     }
   ]
 }
