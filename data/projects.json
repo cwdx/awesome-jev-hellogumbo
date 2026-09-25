@@ -13183,7 +13183,7 @@
       "name": "1 Million Emojis",
       "repo": "cwdx/1-million-emojis",
       "site": "https://chriswijnia.com/experiments/emoji",
-      "description": "A shared canvas of a million emoji cells, live for everyone, where Jev paints the next cell as one Choice over named emoji drawn from the strip around it.",
+      "description": "A shared 1000 × 1000 emoji canvas, live for everyone, where Jev joins each stroke by choosing a square next to it and its emoji as one Choice.",
       "category": "demos",
       "language": "TypeScript",
       "stars": 0,
